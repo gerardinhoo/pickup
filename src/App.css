@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.centering {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 80%;
+}
+
+
